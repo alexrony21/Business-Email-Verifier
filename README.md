@@ -1,5 +1,8 @@
 # Business Email Verifier
 
+![Area Code Database](https://raw.githubusercontent.com/alexrony21/Business-Email-Verifier/main/Business_Email_Verifier.png)
+![Area Code Database](https://raw.githubusercontent.com/alexrony21/Business-Email-Verifier/main/Result.png)
+
 ## Features
 
 ### 1. Basic Email Credits
