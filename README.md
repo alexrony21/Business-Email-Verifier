@@ -1,7 +1,7 @@
 # Business Email Verifier
 
-![Area Code Database](https://raw.githubusercontent.com/alexrony21/Business-Email-Verifier/main/Business_Email_Verifier.png)
-![Area Code Database](https://raw.githubusercontent.com/alexrony21/Business-Email-Verifier/main/Result.png)
+![image](https://raw.githubusercontent.com/alexrony21/Business-Email-Verifier/main/Business_Email_Verifier.png)
+![image](https://raw.githubusercontent.com/alexrony21/Business-Email-Verifier/main/Result.png)
 
 ## Features
 
@@ -53,7 +53,10 @@
 | 250,000 | $300  |
 
 ## Contact
-If you want to purchase please contact me via Telegram: [@alexrony21](https://t.me/alexrony21)
+If you want to purchase please contact me via Telegram: [@thepythoncode97](https://t.me/thepythoncode97)
+
+## Note:
+This tool is designed for marketers and businesses. If you engage in any illegal activities using this tool, the author will not take any responsibility.
 
 ---
 
